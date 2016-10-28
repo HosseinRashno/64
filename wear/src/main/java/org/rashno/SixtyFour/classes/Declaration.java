@@ -27,4 +27,27 @@ public class Declaration {
             return this.name;
         }
     }
+
+    public enum enmPages
+    {
+        Start(0, "شروع"),
+        Game(1, "بازی"),
+        Score(2, "نتیجه");
+
+        private int Value;
+        private String name;
+        enmPages(int value, String name)
+        {
+            this.Value = value;
+            this.name = name;
+        }
+
+        public int getValue()
+        {
+            return this.Value;
+        }
+        public String toString() {
+            return this.name;
+        }
+    }
 }

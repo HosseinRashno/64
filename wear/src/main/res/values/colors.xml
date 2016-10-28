@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="grey">#555555</color>
+    <color name="cstm">#CDDC39</color>
+    <color name="cstmGreen">#1B5E20</color>
+    <color name="cstmRed">#D50000</color>
 </resources>

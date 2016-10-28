@@ -20,11 +20,11 @@ class ActivitiesPagerAdapter extends FragmentStatePagerAdapter {
     public Fragment getItem(int position) {
         switch (position)
         {
-            case 0:
+            case 0: // Start
                 return new FragmentStart();
-            case 1:
+            case 1: // Game
                 return new FragmentGame();
-            case 2:
+            case 2: // Score
                 return new FragmentScore();
             default:
                 return new FragmentStart();

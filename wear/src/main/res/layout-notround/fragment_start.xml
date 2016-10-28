@@ -3,11 +3,18 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/grey">
+    android:background="@color/white"
+    android:gravity="center_vertical">
 
-    <TextView
-        android:text="start RECT"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/textView"/>
+    <ImageButton
+        android:src="@drawable/ic_play"
+        android:background="@color/white"
+        android:layout_width="108dp"
+        android:layout_height="93dp"
+        android:id="@+id/imgBtnPlay"
+        android:scaleType="fitCenter"
+        android:adjustViewBounds="true"
+        android:layout_gravity="center|center_vertical"
+        android:contentDescription="@string/DescPlayBtn"
+        />
 </LinearLayout>

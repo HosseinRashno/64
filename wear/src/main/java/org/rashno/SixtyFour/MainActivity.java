@@ -22,10 +22,6 @@ public class MainActivity extends FragmentActivity {
         mPager = (ViewPager) findViewById(R.id.pager);
         PagerAdapter mPagerAdapter = new ActivitiesPagerAdapter(getSupportFragmentManager());
         mPager.setAdapter(mPagerAdapter);
-
-        if (GlobalParams.typeFaceVazir == null) {
-            GlobalParams.typeFaceVazir = Typeface.createFromAsset(getAssets(), "fonts/Vazir.ttf");
-        }
     }
 
     @Override

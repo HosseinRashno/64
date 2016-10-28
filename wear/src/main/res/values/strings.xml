@@ -2,4 +2,9 @@
     <string name="app_name">SixtyFour</string>
     <string name="hello_round">Hello Round World!</string>
     <string name="hello_square">Hello Square World!</string>
+    <string name="successPercentTitle">درصد موفقیت</string>
+    <string name="wrongCountTitle">کلمه اشتباه</string>
+    <string name="correctCountTitle">کلمه درست</string>
+    <string name="defaultScorePoint">۰</string>
+    <string name="DescPlayBtn">Play the game</string>
 </resources>

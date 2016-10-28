@@ -10,5 +10,4 @@ import android.support.v4.view.ViewPager;
  */
 
 public class GlobalParams {
-    public static Typeface typeFaceVazir = null;
 }
