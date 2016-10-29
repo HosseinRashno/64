@@ -5,6 +5,10 @@
     <string name="successPercentTitle">درصد موفقیت</string>
     <string name="wrongCountTitle">کلمه اشتباه</string>
     <string name="correctCountTitle">کلمه درست</string>
-    <string name="defaultScorePoint">۰</string>
+    <string name="defaultScorePoint">0</string>
     <string name="DescPlayBtn">Play the game</string>
+    <string name="defaultCounter">00</string>
+    <string name="TimesUp">وقت تمام شد</string>
+    <string name="defaultGameWord">؟</string>
+    <string name="percenOfSuccess">%1$d%%</string>
 </resources>

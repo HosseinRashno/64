@@ -1,13 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/grey">
-
-    <TextView
-        android:text="game ROUND"
+    android:gravity="center_vertical"
+    android:paddingRight="10dp"
+    android:paddingLeft="10dp"
+    android:background="@color/white"
+    android:id="@+id/tlGame">
+    <TableRow
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/textView"/>
-</LinearLayout>
+        android:layout_height="match_parent">
+        <TextView
+            android:text="@string/defaultGameWord"
+            android:id="@+id/txtName"
+            android:layout_width="0dp"
+            android:layout_weight="1.8"
+            android:layout_height="wrap_content"
+            android:textColor="@color/cstmGreen"
+            android:gravity="center"
+            android:textSize="20sp"/>
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical">
+        <TableLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="3dp">
+                <ImageButton
+                    android:id="@+id/imgBtnWord01"
+                    style="@style/ImageButtonWordsStyle"
+                    />
+                <ImageButton
+                    android:id="@+id/imgBtnWord02"
+                    style="@style/ImageButtonWordsStyle"
+                    />
+                <ImageButton
+                    android:id="@+id/imgBtnWord03"
+                    style="@style/ImageButtonWordsStyle"
+                    />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="3dp">
+                <ImageButton
+                    android:id="@+id/imgBtnWord04"
+                    style="@style/ImageButtonWordsStyle"
+                    />
+                <ImageButton
+                    android:id="@+id/imgBtnWord05"
+                    style="@style/ImageButtonWordsStyle"
+                    />
+                <ImageButton
+                    android:id="@+id/imgBtnWord06"
+                    style="@style/ImageButtonWordsStyle"
+                    />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <ImageButton
+                    android:id="@+id/imgBtnWord07"
+                    style="@style/ImageButtonWordsStyle"
+                    />
+                <ImageButton
+                    android:id="@+id/imgBtnWord08"
+                    style="@style/ImageButtonWordsStyle"
+                    />
+                <ImageButton
+                    android:id="@+id/imgBtnWord09"
+                    style="@style/ImageButtonWordsStyle"
+                    />
+            </TableRow>
+        </TableLayout>
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="@string/defaultCounter"
+            android:id="@+id/txtCounter"
+            android:layout_width="0dp"
+            android:layout_weight="1.8"
+            android:layout_height="wrap_content"
+            android:textColor="@color/cstmGreen"
+            android:gravity="center"
+            android:textSize="20sp"/>
+    </TableRow>
+</TableLayout>

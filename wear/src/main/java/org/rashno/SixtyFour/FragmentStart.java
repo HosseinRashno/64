@@ -11,6 +11,7 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 
 import org.rashno.SixtyFour.classes.Declaration;
+import org.rashno.SixtyFour.classes.GlobalParams;
 
 /**
  * Created by Hossein on 10/27/2016.
@@ -30,6 +31,7 @@ public class FragmentStart extends Fragment {
     View.OnClickListener imgBtnPlayListener = new View.OnClickListener() {
         @Override
         public void onClick(View view) {
+            GlobalParams.isGameStartFlag = true;
             ViewPager mPager = (ViewPager) getActivity().findViewById(R.id.pager);
             mPager.setCurrentItem(Declaration.enmPages.Game.getValue());
         }

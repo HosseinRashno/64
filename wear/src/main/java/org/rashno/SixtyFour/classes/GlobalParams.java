@@ -10,4 +10,8 @@ import android.support.v4.view.ViewPager;
  */
 
 public class GlobalParams {
+    // TODO : Remove these parameter and pass them between fragments because this is a bad practice
+    public static boolean isGameStartFlag;
+    public static int correctWordsCount;
+    public static int wrongWordsCount;
 }

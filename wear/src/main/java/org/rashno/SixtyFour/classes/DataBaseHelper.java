@@ -25,7 +25,7 @@ class DataBaseHelper  extends SQLiteOpenHelper {
 
     private final Context myContext;
 
-    private static final int DATABASE_VERSION = 14;
+    private static final int DATABASE_VERSION = 15;
 
     DataBaseHelper(Context context) {
         super(context, DB_NAME, null, DATABASE_VERSION);

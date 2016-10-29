@@ -2,5 +2,9 @@
 <resources>
     <color name="cstm">#CDDC39</color>
     <color name="cstmGreen">#1B5E20</color>
-    <color name="cstmRed">#D50000</color>
+    <color name="cstmRed">#D50000</color>.
+    <color name="cstmRedFaild">#F44336</color>
+    <color name="cstmGreenSuccess">#4CAF50</color>
+    <color name="cstmBoyBlue">#3F51B5</color>
+    <color name="cstmGirlPink">#E91E63</color>
 </resources>

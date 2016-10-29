@@ -23,25 +23,27 @@ public class IranianNameFactory {
         _context = context;
     }
 
-    public String GetName(Declaration.enmGender gender, int nameLenght)
+    public IranianNameSchema GetName(int nameLenghtMin, int nameLenghtMax)
     {
-        String nameRet = null;
+        IranianNameSchema ret = new IranianNameSchema();
 
         SQLiteDatabase db = ConnectionWritable(_context);
         String query = "";
-        query += "SELECT name FROM IranianName where ";
-        query += gender==null?"":("gender="+gender.getValue()+" and ");
-        query += " Length(name) = "+ nameLenght;
+        query += "SELECT _id, name, gender FROM IranianName where ";
+        query += " Length(name) >= "+ nameLenghtMin;
+        query += " and Length(name) <= "+ nameLenghtMax;
 
         Cursor c = db.rawQuery(query, null);
         if (c.getCount() > 0) {
             int rndRowNumber = new Random().nextInt(c.getCount());
             if (c.moveToPosition(rndRowNumber)) {
-                nameRet = c.getString(c.getColumnIndex("name"));
+                ret._id = c.getInt(c.getColumnIndex("_id"));
+                ret.Name = c.getString(c.getColumnIndex("name"));
+                ret.Gender = Declaration.enmGender.values()[c.getInt(c.getColumnIndex("gender"))];
             }
             c.close();
             db.close();
         }
-        return nameRet;
+        return ret;
     }
 }
