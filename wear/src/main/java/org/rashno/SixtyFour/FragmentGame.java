@@ -95,7 +95,7 @@ public class FragmentGame extends Fragment {
         return rootView;
     }
 
-    CountDownTimer cdTimer = new CountDownTimer(15000, 1000) {
+    CountDownTimer cdTimer = new CountDownTimer(65000, 1000) {
 
         public void onTick(long millisUntilFinished) {
             String timeRemain = String.valueOf(millisUntilFinished / 1000);
