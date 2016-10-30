@@ -2,7 +2,7 @@
 ______
 
 
-#<b>64</b> <sub><sup><sub><sup>*A simple android wear game*</sub></sup></sub></sup>
+#<b>64</b> <sub><sup><sub><sup>*A simple android wear game*</sup></sub></sup></sub>
 <b>64</b> is a simple android wear game that try to entertain you for a few minutes and teach you the Iranian names for boys and girls through the game
 ##How to play
 By pressing the start button you have 64 seconds to select the given name characters in order of appearance in word. You should complete the given words as much as you can and when your times over you can view your score disaggregated by correct words and wrong words and below that you can see your success percent result.
@@ -28,11 +28,11 @@ Licensed under the GNU GENERAL PUBLIC LICENSE Version 2, June 1991 licensing.
 
 ______
 
-#<a name="PersianSectionStart"><b>64</b> <sub><sup><sub><sup>*یک بازی ساده اندروید وری*</sub></sup></sub></sup>
+<h1 dir="rtl"><a name="PersianSectionStart"></a><b>64</b> <sub><sup><sub><sup>یک بازی ساده اندروید وری</sup></sub></sup></sub></h1>
 <div dir="rtl">
 <b>64</b>یک بازی ساده اندروید وری می‌باشد که تلاش می‌کند شما را دقایقی سرگرم نماید و همچنین از طریق بازی کردن، شما با نام های پسرانه و دخترانه ایرانی نیز آشنا خواهید شد
 </div>
-##نحوه بازی کردن
+<h2 dir="rtl">نحوه بازی کردن</h2>
 <div dir="rtl">
 با زدن دکمه شروع، به شما ۶۴ ثانیه زمان داده می‌شود تا حروف کلمه نشان داده شده را به ترتیبی که در کلمه هستند انتخاب کنید. شما باید هر تعداد کلمه‌ای را که می‌توانید تکمیل بکنید و هنگامی که زمان شما به پایان رسید شما می‌توانید رکورد خود را به تفکیک کلمات درست و کلمات غلط مشاهده بکنید و در زیر آن نیز درصد موفقیت خود را ببینید
 </div>
@@ -40,14 +40,14 @@ ______
 توجه داشته باشید که اسامی پسر با رنگ آبی و اسامی دختر با رنگ صورتی به نمایش در خواهد آمد
 </div>
 
-##آیکون و اسکرین‌شات‌ها
+<h2 dir="rtl">آیکون و اسکرین‌شات‌ها</h2>
 <div dir="rtl">
 اسکرین‌شات ‌های بازی بزودی در اینجا قرار داده خواهند شد
 
 </div>
 ![آیکون](http://s3.img7.ir/QN2r2.png "آیکون بازی")
 
-##دانلود و نصب
+<h2 dir="rtl">دانلود و نصب</h2>
 <div dir="rtl">
 شما می‌توانید فایل apk را از این مارکت‌ها دانلود بکنید:
 </div>
@@ -57,18 +57,18 @@ ______
 بعد از نصب فایل apk شما می‌تواند بازی نصب شده را بر روی ساعت خود مشاهده نمایید. این بازی در منوی موبایل قابل مشاهده نمی‌باشد.
 </div>
 
-##مشارکت در توسعه
+<h2 dir="rtl">مشارکت در توسعه</h2>
 <div dir="rtl">
 مشارکت در این کد با روی باز پذیرفته می‌شود. به من در ساختن یک بازی خفن کمک بکنید!
 </div>
 
-##سوالات و مشکلات
+<h2 dir="rtl">سوالات و مشکلات</h2>
 <div dir="rtl">
 بخش issue tracker گیت‌هاب فقط برای گزارش باگ و درخواست امکانات جدید می‌باشد. برای هر چیز دیگری مثل سوال به جهت کمک در کد، با ایمیل با من در ارتباط باشید
 </div>
 `me at rashno dot org`
 
-##کپی‌رایت و لایسنس
+<h2 dir="rtl">کپی‌رایت و لایسنس</h2>
 <div dir="rtl">
 لایسنس شده تحت GPL نسخه 2
 </div>
