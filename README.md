@@ -11,7 +11,7 @@ Note that boys name will appear in blue color and girls name will be pink.
 ##Icons and screen shots
 Screen shots from the game will be add soon
 
-![Icon](/wear/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true "Icon of the app")
+![Icon](http://s3.img7.ir/QN2r2.png "Icon of the app")
 
 ##Download and Installation
 You can download the apk file from these android markets:
@@ -45,7 +45,7 @@ ______
 اسکرین‌شات ‌های بازی بزودی در اینجا قرار داده خواهند شد
 
 </div>
-![آیکون](/wear/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true "آیکون بازی")
+![آیکون](http://s3.img7.ir/QN2r2.png "آیکون بازی")
 
 ##دانلود و نصب
 <div dir="rtl">
