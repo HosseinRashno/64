@@ -18,7 +18,10 @@ Note that boys name will appear in blue color and girls name will be pink.
 ![Score page round](http://s6.uplod.ir/i/00831/bqrif1c3j8u9.png "Score page round")
 
 ##Download and Installation
-You can download the apk file from these android markets:
+You can download the apk from here:
+[Download][2]
+
+Or from these android markets:
 >Links to those markets will be update as soon as they accept the package
 
 After you install tha apk file, you can find installed game on your watch, It does'nt show up in the mobile device menu
@@ -45,10 +48,6 @@ ______
 </div>
 
 <h2 dir="rtl">آیکون و اسکرین‌شات‌ها</h2>
-<div dir="rtl">
-اسکرین‌شات ‌های بازی بزودی در اینجا قرار داده خواهند شد
-
-</div>
 ![آیکون بازی](http://s6.uplod.ir/i/00831/rrvy24dnt9a4.jpg "آیکون بازی")
 ![صفحه شروع گرد](http://s6.uplod.ir/i/00831/00kq632vcw2v.png "صفحه شروع گرد")
 ![صفحه شروع مربع](http://s6.uplod.ir/i/00831/3qerdy6x48pb.png "صفحه شروع مربع")
@@ -59,7 +58,11 @@ ______
 
 <h2 dir="rtl">دانلود و نصب</h2>
 <div dir="rtl">
-شما می‌توانید فایل apk را از این مارکت‌ها دانلود بکنید:
+شما می‌توانید فایل apk را از اینجا دانلود کنید:
+</div>
+[دانلود][2]
+<div dir="rtl">
+یا بازی را از این مارکت‌ها دریافت نمایید:
 </div>
 >لینک به آن فروشگاه‌ها بعد از قرارگیری بازی در آن فروشگاه‌هاآپدیت خواهد شد
 
@@ -85,3 +88,4 @@ ______
 
 
 [1]: https://github.com/HosseinRashno/64/issues
+[2]: http://s6.uplod.ir:182/d/2k2q7wxg4hvhuf6t3woitytz7g2kqok7etovwaswapebuinxrgz5hkaw/mobile-release.apk
