@@ -9,9 +9,13 @@ By pressing the start button you have 64 seconds to select the given name charac
 
 Note that boys name will appear in blue color and girls name will be pink.
 ##Icons and screen shots
-Screen shots from the game will be add soon
-
-![Icon](http://s3.img7.ir/QN2r2.png "Icon of the app")
+![Icon](http://s6.uplod.ir/i/00831/rrvy24dnt9a4.jpg "Icon of the app")
+![Play page round](http://s6.uplod.ir/i/00831/00kq632vcw2v.png "Play page round")
+![Play page square](http://s6.uplod.ir/i/00831/3qerdy6x48pb.png "Play page square")
+![Game page square](http://s6.uplod.ir/i/00831/z6gfd4x8mya1.png "Game page square")
+![Game page round](http://s6.uplod.ir/i/00831/365h02emsxww.png "Game page round")
+![Game page round chin](http://s6.uplod.ir/i/00831/wbr0ll2pigo5.png "Game page round chin")
+![Score page round](http://s6.uplod.ir/i/00831/bqrif1c3j8u9.png "Score page round")
 
 ##Download and Installation
 You can download the apk file from these android markets:
@@ -45,7 +49,13 @@ ______
 اسکرین‌شات ‌های بازی بزودی در اینجا قرار داده خواهند شد
 
 </div>
-![آیکون](http://s3.img7.ir/QN2r2.png "آیکون بازی")
+![آیکون بازی](http://s6.uplod.ir/i/00831/rrvy24dnt9a4.jpg "آیکون بازی")
+![صفحه شروع گرد](http://s6.uplod.ir/i/00831/00kq632vcw2v.png "صفحه شروع گرد")
+![صفحه شروع مربع](http://s6.uplod.ir/i/00831/3qerdy6x48pb.png "صفحه شروع مربع")
+![صفحه بازی مربع](http://s6.uplod.ir/i/00831/z6gfd4x8mya1.png "صفحه بازی مربع")
+![صفحه بازی گرد](http://s6.uplod.ir/i/00831/365h02emsxww.png "صفحه بازی گرد")
+![صفحه بازی گرد ناقص](http://s6.uplod.ir/i/00831/wbr0ll2pigo5.png "صفحه بازی گرد ناقص")
+![صفحه امتیازات گرد](http://s6.uplod.ir/i/00831/bqrif1c3j8u9.png "صفحه امتیازات گرد")
 
 <h2 dir="rtl">دانلود و نصب</h2>
 <div dir="rtl">
