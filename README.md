@@ -37,7 +37,7 @@ ______
 
 <h1 dir="rtl"><a name="PersianSectionStart"></a><b>64</b> <sub><sup><sub><sup>یک بازی ساده اندروید وری</sup></sub></sup></sub></h1>
 <div dir="rtl">
-<b>64</b>یک بازی ساده اندروید وری می‌باشد که تلاش می‌کند شما را دقایقی سرگرم نماید و همچنین از طریق بازی کردن، شما با نام های پسرانه و دخترانه ایرانی نیز آشنا خواهید شد
+<b>64</b> یک بازی ساده اندروید وری می‌باشد که تلاش می‌کند شما را دقایقی سرگرم نماید و همچنین از طریق بازی کردن، شما با نام های پسرانه و دخترانه ایرانی نیز آشنا خواهید شد
 </div>
 <h2 dir="rtl">نحوه بازی کردن</h2>
 <div dir="rtl">
@@ -60,7 +60,9 @@ ______
 <div dir="rtl">
 شما می‌توانید فایل apk را از اینجا دانلود کنید:
 </div>
-[دانلود][2]
+<div dir="rtl">
+<a href="https://drive.google.com/open?id=0BybDoPW31mYFakR4S3pSVHExcUk">دانلود</a>
+</div>
 <div dir="rtl">
 یا بازی را از این مارکت‌ها دریافت نمایید:
 </div>
@@ -88,4 +90,4 @@ ______
 
 
 [1]: https://github.com/HosseinRashno/64/issues
-[2]: http://s6.uplod.ir:182/d/2k2q7wxg4hvhuf6t3woitytz7g2kqok7etovwaswapebuinxrgz5hkaw/mobile-release.apk
+[2]: https://drive.google.com/open?id=0BybDoPW31mYFakR4S3pSVHExcUk
