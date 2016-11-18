@@ -43,14 +43,24 @@ public class FragmentScore extends Fragment {
     public void setUserVisibleHint(boolean isVisibleToUser) {
         super.setUserVisibleHint(isVisibleToUser);
         if (isVisibleToUser && txtCorrectWorkCount!=null && txtWrongWordCount!=null && txtSuccessPercent!=null) {
+            double PerfectSuccessWordCount = 35;
+            int percentOfSuccess = 100;
+
             txtCorrectWorkCount.setText(String.valueOf(GlobalParams.correctWordsCount));
             txtWrongWordCount.setText(String.valueOf(GlobalParams.wrongWordsCount));
-            double sum = GlobalParams.correctWordsCount+GlobalParams.wrongWordsCount;
-            if(sum != 0)
-            {
-                int percentOfSuccess = (int)((GlobalParams.correctWordsCount/sum)*100);
-                txtSuccessPercent.setText(getString(R.string.percenOfSuccess, percentOfSuccess));
+
+            long successLong = GlobalParams.correctWordsCount;
+            long wrongLong = GlobalParams.wrongWordsCount;
+
+            if (GlobalParams.correctWordsCount != 0){
+                percentOfSuccess = (int)(successLong*100/PerfectSuccessWordCount);
+                percentOfSuccess -= (wrongLong*100*(1/PerfectSuccessWordCount));
+                percentOfSuccess = percentOfSuccess<0?0:percentOfSuccess;
+            } else {
+                percentOfSuccess = 0;
             }
+
+            txtSuccessPercent.setText(getString(R.string.percenOfSuccess, percentOfSuccess));
         }
     }
 }
