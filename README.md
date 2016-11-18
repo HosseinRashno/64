@@ -9,12 +9,19 @@ By pressing the start button you have 64 seconds to select the given name charac
 
 Note that boys name will appear in blue color and girls name will be pink.
 ##Icons and screen shots
-Screen shots from the game will be add soon
-
-![Icon](http://s3.img7.ir/QN2r2.png "Icon of the app")
+![Icon](http://s6.uplod.ir/i/00831/rrvy24dnt9a4.jpg "Icon of the app")
+![Play page round](http://s6.uplod.ir/i/00831/00kq632vcw2v.png "Play page round")
+![Play page square](http://s6.uplod.ir/i/00831/3qerdy6x48pb.png "Play page square")
+![Game page square](http://s6.uplod.ir/i/00831/z6gfd4x8mya1.png "Game page square")
+![Game page round](http://s6.uplod.ir/i/00831/365h02emsxww.png "Game page round")
+![Game page round chin](http://s6.uplod.ir/i/00831/wbr0ll2pigo5.png "Game page round chin")
+![Score page round](http://s6.uplod.ir/i/00831/bqrif1c3j8u9.png "Score page round")
 
 ##Download and Installation
-You can download the apk file from these android markets:
+You can download the apk from here:
+[Download][2]
+
+Or from these android markets:
 >Links to those markets will be update as soon as they accept the package
 
 After you install tha apk file, you can find installed game on your watch, It does'nt show up in the mobile device menu
@@ -30,7 +37,7 @@ ______
 
 <h1 dir="rtl"><a name="PersianSectionStart"></a><b>64</b> <sub><sup><sub><sup>یک بازی ساده اندروید وری</sup></sub></sup></sub></h1>
 <div dir="rtl">
-<b>64</b>یک بازی ساده اندروید وری می‌باشد که تلاش می‌کند شما را دقایقی سرگرم نماید و همچنین از طریق بازی کردن، شما با نام های پسرانه و دخترانه ایرانی نیز آشنا خواهید شد
+<b>64</b> یک بازی ساده اندروید وری می‌باشد که تلاش می‌کند شما را دقایقی سرگرم نماید و همچنین از طریق بازی کردن، شما با نام های پسرانه و دخترانه ایرانی نیز آشنا خواهید شد
 </div>
 <h2 dir="rtl">نحوه بازی کردن</h2>
 <div dir="rtl">
@@ -41,15 +48,23 @@ ______
 </div>
 
 <h2 dir="rtl">آیکون و اسکرین‌شات‌ها</h2>
-<div dir="rtl">
-اسکرین‌شات ‌های بازی بزودی در اینجا قرار داده خواهند شد
-
-</div>
-![آیکون](http://s3.img7.ir/QN2r2.png "آیکون بازی")
+![آیکون بازی](http://s6.uplod.ir/i/00831/rrvy24dnt9a4.jpg "آیکون بازی")
+![صفحه شروع گرد](http://s6.uplod.ir/i/00831/00kq632vcw2v.png "صفحه شروع گرد")
+![صفحه شروع مربع](http://s6.uplod.ir/i/00831/3qerdy6x48pb.png "صفحه شروع مربع")
+![صفحه بازی مربع](http://s6.uplod.ir/i/00831/z6gfd4x8mya1.png "صفحه بازی مربع")
+![صفحه بازی گرد](http://s6.uplod.ir/i/00831/365h02emsxww.png "صفحه بازی گرد")
+![صفحه بازی گرد ناقص](http://s6.uplod.ir/i/00831/wbr0ll2pigo5.png "صفحه بازی گرد ناقص")
+![صفحه امتیازات گرد](http://s6.uplod.ir/i/00831/bqrif1c3j8u9.png "صفحه امتیازات گرد")
 
 <h2 dir="rtl">دانلود و نصب</h2>
 <div dir="rtl">
-شما می‌توانید فایل apk را از این مارکت‌ها دانلود بکنید:
+شما می‌توانید فایل apk را از اینجا دانلود کنید:
+</div>
+<div dir="rtl">
+<a href="https://drive.google.com/open?id=0BybDoPW31mYFakR4S3pSVHExcUk">دانلود</a>
+</div>
+<div dir="rtl">
+یا بازی را از این مارکت‌ها دریافت نمایید:
 </div>
 >لینک به آن فروشگاه‌ها بعد از قرارگیری بازی در آن فروشگاه‌هاآپدیت خواهد شد
 
@@ -75,3 +90,4 @@ ______
 
 
 [1]: https://github.com/HosseinRashno/64/issues
+[2]: https://drive.google.com/open?id=0BybDoPW31mYFakR4S3pSVHExcUk
