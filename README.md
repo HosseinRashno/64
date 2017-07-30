@@ -2,7 +2,8 @@
 ______
 
 
-#<b>64</b> <sub><sup><sub><sup>*A simple android wear game*</sup></sub></sup></sub>
+#<b>64</b> <sub>*A simple android wear game*</sup>
+
 <b>64</b> is a simple android wear game that try to entertain you for a few minutes and teach you the Iranian names for boys and girls through the game
 ##How to play
 By pressing the start button you have 64 seconds to select the given name characters in order of appearance in word. You should complete the given words as much as you can and when your times over you can view your score disaggregated by correct words and wrong words and below that you can see your success percent result.
