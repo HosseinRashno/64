@@ -2,14 +2,15 @@
 ______
 
 
-#<b>64</b> <sub>*A simple android wear game*</sup>
+# <b>64</b> <sub><sub><sub>*A simple android wear game*</sup></sup></sup>
 
 <b>64</b> is a simple android wear game that try to entertain you for a few minutes and teach you the Iranian names for boys and girls through the game
-##How to play
+## How to play
 By pressing the start button you have 64 seconds to select the given name characters in order of appearance in word. You should complete the given words as much as you can and when your times over you can view your score disaggregated by correct words and wrong words and below that you can see your success percent result.
 
 Note that boys name will appear in blue color and girls name will be pink.
-##Icons and screen shots
+## Icons and screen shots
+
 ![Icon](http://s6.uplod.ir/i/00831/rrvy24dnt9a4.jpg "Icon of the app")
 ![Play page round](http://s6.uplod.ir/i/00831/00kq632vcw2v.png "Play page round")
 ![Play page square](http://s6.uplod.ir/i/00831/3qerdy6x48pb.png "Play page square")
@@ -18,7 +19,8 @@ Note that boys name will appear in blue color and girls name will be pink.
 ![Game page round chin](http://s6.uplod.ir/i/00831/wbr0ll2pigo5.png "Game page round chin")
 ![Score page round](http://s6.uplod.ir/i/00831/bqrif1c3j8u9.png "Score page round")
 
-##Download and Installation
+## Download and Installation
+
 You can download the apk from here:
 [Download][2]
 
@@ -27,11 +29,12 @@ Or from these android markets:
 
 After you install tha apk file, you can find installed game on your watch, It does'nt show up in the mobile device menu
 
-##Contribute
+## Contribute
 Contributions are always welcome! Help me to make this game awesome!
-##Questions and issues
+## Questions and issues
+
 The [github issue tracker][1] is only for bug reports and feature requests. Anything else, such as questions for help in code, should be mail to me via `me at rashno dot org`.
-##Copyright and license
+## Copyright and license
 Licensed under the GNU GENERAL PUBLIC LICENSE Version 2, June 1991 licensing.
 
 ______
